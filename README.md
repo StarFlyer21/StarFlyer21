@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StarFlyer21
+- 👋 Hi, I’m Erik
 - 👀 I’m interested in discover a lot of things that evokes my curiosity
 - 🌱 I’m currently learning coding, databases, html, etc..
 - 💞️ I’m looking to collaborate on anyone that can improves my knowledge
